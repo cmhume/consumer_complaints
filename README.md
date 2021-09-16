@@ -14,6 +14,18 @@ Idea: https://www.superdatascience.com/pages/sql
 Data: https://www.consumerfinance.gov/data-research/consumer-complaints/
 
 
+Schema: https://github.com/cmhume/consumer_complaints/blob/c389d1e8cc5b60694ab14fd61cbfaf534b8c90e8/schema.sql
+
+
+Queries: https://github.com/cmhume/consumer_complaints/blob/c389d1e8cc5b60694ab14fd61cbfaf534b8c90e8/queries.sql
+
+
+## Method:
+
+
+First, a table for the data was created using the pgAdmin interface and this [schema](https://github.com/cmhume/consumer_complaints/blob/c389d1e8cc5b60694ab14fd61cbfaf534b8c90e8/schema.sql).  Then, the consumer complaint data was imported into the SQL table.  Lastly, SQL [queries](https://github.com/cmhume/consumer_complaints/blob/c389d1e8cc5b60694ab14fd61cbfaf534b8c90e8/queries.sql) were performed to answer the following questions. 
+
+
 ## Questions & Results:
 
 
