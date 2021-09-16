@@ -32,28 +32,28 @@ First, a table for the data was created using the pgAdmin interface and this [sc
 ### How many complaints were received by the bureau and sent by consumers on the same day?
 
 
-28,737 complaints were received and sent on the same day out of the total of 65,499 complaints.
+* 28,737 complaints were received and sent on the same day out of the total of 65,499 complaints.
 
 
 ### How many complaints were received from New York state?
 
 
-4,413 complaints were received from the state of New York.
+* 4,413 complaints were received from the state of New York.
 
 
 ### How many complaints were received from the states of New York and California? 
 
 
-13,668 complaints were received from the states of NY and CA.
+* 13,668 complaints were received from the states of NY and CA.
 
 
 ### How many complaints had "Credit" in the Product field?
 
 
-18,564 complaints had "Credit" in the Product field.
+* 18,564 complaints had "Credit" in the Product field.
 
 
 ### How many complaints had the word "Late" in the Issue field?
 
 
-312 complaints had "Late" in the Issue field.
+* 312 complaints had "Late" in the Issue field.
